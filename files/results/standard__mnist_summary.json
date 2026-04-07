@@ -1,0 +1,9 @@
+{
+  "run_name": "standard__mnist",
+  "best_val_acc1": 0.9349,
+  "final_val_acc1": 0.9349,
+  "avg_train_samples_per_sec": 275.0982282576686,
+  "avg_val_ms_per_sample": 1.1725063499982933,
+  "num_parameters": 3179562,
+  "log_path": "results/standard__mnist_log.csv"
+}
